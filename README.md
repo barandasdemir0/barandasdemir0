@@ -2,7 +2,6 @@
 
 👀I’m currently learning C#,ASP.NET,ASP.NET MVC,HTML,CSS,BOOTSTRAP,MSSQL,JAVA,ANDROİD PROGRAMMİNG.
 
-📫
 
 Connect with me: 📫
 <br/>&nbsp;
