@@ -1,4 +1,4 @@
-Hi there 👋, I'm Baran Daşdemir
+<center>Hi there 👋, I'm Baran Daşdemir
 
 👀I’m currently learning ASP.NET,ASP.NET MVC,BOOTSTRAP,MSSQL,JAVA,ANDROİD PROGRAMMİNG.
 
@@ -27,7 +27,7 @@ Hi there 👋, I'm Baran Daşdemir
 💻I aim to complete engineering by taking the vertical transfer exam.💻
 
 💻I develop myself first to develop a good software.💻
-
+</center>
 
 
 
