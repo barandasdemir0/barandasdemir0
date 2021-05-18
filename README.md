@@ -1,20 +1,16 @@
-<center>Hi there 👋, I'm Baran Daşdemir</center>
+<center><h1>Hi there 👋, I'm Baran Daşdemir</h1></center>
 
 👀I’m currently learning C#,ASP.NET,ASP.NET MVC,HTML,CSS,BOOTSTRAP,MSSQL,JAVA,ANDROİD PROGRAMMİNG.
 
 
-Connect with me: 📫
-<br/>&nbsp;
+<h3>Connect with me: 📫</h3>
 <br/>&nbsp;
 <a href="https://www.linkedin.com/in/baran-da%C5%9Fdemir-4ba639202/"><img width="50" height="50" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" ></a>&nbsp;&nbsp;
 <a href="mailto:07baran06@gmail.com/"><img width="50" height="50" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" ></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/baran.dasdemir/"><img width="50" height="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" ></a>&nbsp;&nbsp;
 <a href="https://twitter.com/barandasdemir_"><img width="50" height="50" src="https://i.pinimg.com/originals/e7/b7/8b/e7b78b7e4664caa8e541da27ef1f0c3e.png" ></a>&nbsp;&nbsp;
-<br/>&nbsp;
 
-Languages and Tools:🌱
-<br/>&nbsp;
-<br/>&nbsp;
+<h3>Languages and Tools🌱</h3>
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Boostrap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
@@ -29,7 +25,7 @@ Languages and Tools:🌱
 <br/>&nbsp;
 
 
-💬 About me
+<h1>💬 About me </h1>
 
 💻I am a first year student of Computer Programming at Isparta Applied Sciences University Vocational School of Technical Sciences.💻
 
