@@ -1,6 +1,6 @@
 <center>Hi there 👋, I'm Baran Daşdemir</center>
 
-👀I’m currently learning C#,ASP.NET,ASP.NET MVC,HTML,CSS,BOOTSTRAP,MSSQL,JAVA,ANDROİD PROGRAMMİNG.
+👀I’m currently learning C#,ASP.NET,ASP.NET MVC,HTML,CSS,BOOTSTRAP,MSSQL,JAVA,ANDROİD PROGRAMMİNG WİTH JAVA.
 
 
 Connect with me: 📫
