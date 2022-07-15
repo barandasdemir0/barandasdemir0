@@ -19,7 +19,6 @@
 <table align="center">
   <tr>
     <td><a href="https://www.linkedin.com/in/baran-da%C5%9Fdemir-4ba639202/"><img width="50" height="50" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" ></a>&nbsp;&nbsp;</td>
-    <td><a href="mailto:07baran06@gmail.com/"><img width="50" height="50" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" ></a>&nbsp;&nbsp;</td>
     <td><a href="https://www.instagram.com/baran.dasdemir/"><img width="50" height="50" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" ></a>&nbsp;&nbsp;</td>
         <td><a href="https://twitter.com/barandasdemir_"><img width="70" height="50" src="https://i.pinimg.com/originals/e7/b7/8b/e7b78b7e4664caa8e541da27ef1f0c3e.png" ></a>&nbsp;&nbsp;</td>
 
