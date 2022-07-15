@@ -8,7 +8,6 @@
      <td><img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></td>
      <td><img align="left" alt="Boostrap" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td>
      <td><img align="left" alt="Android" width="50px" src="https://www.bilisimogretmeni.com/wp-content/uploads/android_vector21-328x375.png" /></td>
-     <td><img align="left" alt="ASP.NET" width="50px" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png" /></td>
      <td><img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></td>
      <td><img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></td>
      <td><img align="left" alt="VİSUAL STUDİO CODE" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></td>
