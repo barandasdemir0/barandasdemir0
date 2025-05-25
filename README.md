@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>👋 Hello, I'm Baran Daşdemir</h1>
-  <p><em>3rd-Year Computer Systems & Technologies Student • Full-Stack & Cybersecurity Enthusiast</em></p>
+
+# 👋 Hello, I'm Baran Daşdemir  
+### *3rd-Year Computer Systems & Technologies Student*  
+*Full-Stack & Cybersecurity Enthusiast*
+
 </div>
 
 ---
@@ -8,19 +11,18 @@
 ## 🚀 Technologies & Tools I Use
 
 <div align="center">
-  <img alt="C#" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img alt=".NET MVC" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
-  <img alt="ASP.NET MVC" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" />
-  <img alt="Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
-  <img alt="Android" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
-  <img alt="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-  <img alt="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-  <img alt="Bootstrap" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img alt="MSSQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img alt="Linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img alt="Kali Linux" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Kali_Linux_Logo.svg" />
-  <img alt="Cryptography" width="40" src="https://img.icons8.com/ios-filled/50/000000/lock--v1.png" />
-  <img alt="Raspberry Pi 5" width="40" src="https://www.raspberrypi.org/app/uploads/2018/03/RasPi-Icon-App-1000.png" />
+  <img alt="C#" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" />
+  <img alt=".NET Core" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" />
+  <img alt="Java" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" />
+  <img alt="Android" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" />
+  <img alt="HTML5" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" />
+  <img alt="CSS3" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" />
+  <img alt="Bootstrap" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
+  <img alt="MSSQL" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" />
+  <img alt="Linux" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" />
+  <img alt="Kali Linux" width="48" src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux" />
+  <img alt="Cryptography" width="48" src="https://img.icons8.com/ios-filled/50/lock.png" title="Cryptography" />
+  <img alt="Raspberry Pi" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" />
 </div>
 
 ---
@@ -28,21 +30,24 @@
 ## 🌱 Currently Learning
 
 <div align="center">
-  <img alt="TypeScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="Angular" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
-  <img alt="Git" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img alt="Python" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="TypeScript" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" />
+  <img alt="JavaScript" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img alt="Angular" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" />
+  <img alt="Git" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" />
+  <img alt="Python" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" />
 </div>
 
 ---
 
-## 📫 Contact
+## 📫 Connect with Me
 
 <div align="center">
-  <a href="mailto:barandasdemir.bd@gmail.com"><img src="https://img.shields.io/badge/Email-barandasdemir.bd@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/baran-dasdemir/"><img src="https://img.shields.io/badge/LinkedIn-barandasdemir-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/barandasdemir"><img src="https://img.shields.io/badge/GitHub-barandasdemir-black?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="mailto:barandasdemir.bd@gmail.com" target="_blank">
+    <img alt="Email" width="48" src="https://img.icons8.com/color/48/gmail-new.png" title="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/baran-dasdemir" target="_blank">
+    <img alt="LinkedIn" width="48" src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" />
+  </a>
 </div>
 
 ---
@@ -50,5 +55,7 @@
 ## ✨ Inspiration & Vision
 
 > “A single line of code can open a door that makes people's lives easier.”  
->  
 > *– Baran Daşdemir*
+
+---
+
