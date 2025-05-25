@@ -1,47 +1,54 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Baran Daşdemir</h1>
+  <h1>👋 Hello, I'm Baran Daşdemir</h1>
+  <p><em>3rd-Year Computer Systems & Technologies Student • Full-Stack & Cybersecurity Enthusiast</em></p>
 </div>
+
+---
+
+## 🚀 Technologies & Tools I Use
 
 <div align="center">
-  <h3>🚀 Technologies & Tools I Use</h3>
+  <img alt="C#" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img alt=".NET MVC" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
+  <img alt="ASP.NET MVC" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" />
+  <img alt="Java" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+  <img alt="Android" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
+  <img alt="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+  <img alt="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+  <img alt="Bootstrap" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img alt="MSSQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img alt="Linux" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img alt="Kali Linux" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Kali_Linux_Logo.svg" />
+  <img alt="Cryptography" width="40" src="https://img.icons8.com/ios-filled/50/000000/lock--v1.png" />
+  <img alt="Raspberry Pi 5" width="40" src="https://www.raspberrypi.org/app/uploads/2018/03/RasPi-Icon-App-1000.png" />
 </div>
+
+---
+
+## 🌱 Currently Learning
 
 <div align="center">
-  <p>I'm currently working with and improving myself in the following technologies:</p>
-  <p><strong>C#, .NET Framework, ASP.NET MVC, Android Studio (Java/Kotlin), HTML, CSS, Bootstrap, MSSQL, Visual Studio & Visual Studio Code</strong></p>
+  <img alt="TypeScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="Angular" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+  <img alt="Git" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="Python" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 
-<table align="center">
-  <tr>
-    <td><img alt="Java" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /></td>
-    <td><img alt="C#" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></td>
-    <td><img alt=".NET" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" /></td>
-    <td><img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /></td>
-    <td><img alt="Android" width="50px" src="https://www.bilisimogretmeni.com/wp-content/uploads/android_vector21-328x375.png" /></td>
-    <td><img alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /></td>
-    <td><img alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /></td>
-    <td><img alt="VS Code" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" /></td>
-    <td><img alt="MSSQL" width="50px" src="https://user-images.githubusercontent.com/59020581/117359010-84818780-aebf-11eb-8791-3bd7991de5fb.png" /></td>
-  </tr>
-</table>
+---
+
+## 📫 Contact
 
 <div align="center">
-  <h3>📫 Connect with me</h3>
+  <a href="mailto:barandasdemir.bd@gmail.com"><img src="https://img.shields.io/badge/Email-barandasdemir.bd@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/baran-dasdemir/"><img src="https://img.shields.io/badge/LinkedIn-barandasdemir-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/barandasdemir"><img src="https://img.shields.io/badge/GitHub-barandasdemir-black?style=flat-square&logo=github" alt="GitHub"></a>
 </div>
 
-<table align="center">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/baran-dasdemir/"><img width="50" height="50" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="LinkedIn"></a></td>
-  </tr>
-</table>
+---
 
-<div align="center">
-  <h1>💬 About Me</h1>
-</div>
+## ✨ Inspiration & Vision
 
-<div align="center">
-  <p>🎓 I'm a 3rd-year student at Sivas Cumhuriyet University, Department of Computer Systems and Technologies.</p>
-  <p>💻 I have experience in software development, .NET technologies, mobile app development (Android Studio), and Linux-based systems.</p>
-  <p>🌱 I'm currently focused on improving my skills in full-stack development and cybersecurity.</p>
-  <p>📍 Based in Ankara – open to remote and on-site opportunities.</p>
-</div>
+> “A single line of code can open a door that makes people's lives easier.”  
+>  
+> *– Baran Daşdemir*
