@@ -52,6 +52,12 @@
 
 ---
 
+
+## 👋 Merhaba, ben Baran
+
+![Ziyaretçi](https://komarev.com/ghpvc/?username=barandasdemir0&color=blue)
+
+
 ## ✨ Inspiration & Vision
 
 > “A single line of code can open a door that makes people's lives easier.”  
