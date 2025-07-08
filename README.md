@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Baran Daşdemir  
 ### *3rd-Year Computer Systems & Technologies Student*  
 *Full-Stack & Cybersecurity Enthusiast*
-
+![Ziyaretçi](https://komarev.com/ghpvc/?username=barandasdemir0&color=blue)
 </div>
 
 ---
@@ -53,9 +53,8 @@
 ---
 
 
-## 👋 Merhaba, ben Baran
 
-![Ziyaretçi](https://komarev.com/ghpvc/?username=barandasdemir0&color=blue)
+
 
 
 ## ✨ Inspiration & Vision
