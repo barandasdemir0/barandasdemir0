@@ -4,6 +4,7 @@
 ### *3rd-Year Computer Systems & Technologies Student*  
 *Full-Stack & Cybersecurity Enthusiast*
 <br/>
+<br/><br/>
 ![Ziyaretçi](https://komarev.com/ghpvc/?username=barandasdemir0&color=blue)
 </div>
 
