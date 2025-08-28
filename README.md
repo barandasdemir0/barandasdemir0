@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Baran Daşdemir  
 ### *4th-Year Computer Systems & Technologies Student*  
-*Full-Stack & Cybersecurity Enthusiast*
+*Full-Stack .net jr.Developer*
 <br/>
 <br/><br/>
 ![Ziyaretçi](https://komarev.com/ghpvc/?username=barandasdemir0&color=blue)
