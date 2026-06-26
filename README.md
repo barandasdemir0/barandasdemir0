@@ -1,68 +1,86 @@
 <div align="center">
 
-# 👋 Hello, I'm Baran Daşdemir  
-### *4th-Year Computer Systems & Technologies Student*  
-*Full-Stack .NET JR Developer*
+# 👋 Hi, I'm Baran Daşdemir
+
+### Junior .NET Developer | Computer Systems & Technologies Graduate
+
+I build backend and full-stack applications with .NET technologies, focusing on clean architecture, APIs, databases and real-world software solutions.
+
 <br/>
-<br/><br/>
-![Ziyaretçi](https://komarev.com/ghpvc/?username=barandasdemir0&color=blue)
+
+<p align="center"> <a href="https://barandasdemir.com"> <img src="https://img.shields.io/badge/Website-barandasdemir.com-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://github.com/barandasdemir0"> <img src="https://img.shields.io/badge/GitHub-barandasdemir0-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+<p align="center"> <a href="https://www.linkedin.com/in/baran-dasdemir"> <img src="https://img.shields.io/badge/LinkedIn-Baran%20Daşdemir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp;&nbsp; <a href="mailto:barandasdemir.bd@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=barandasdemir0\&color=blue)
+
 </div>
 
 ---
 
-## 🚀 Technologies & Tools I Use
+## 💻 About Me
 
-<div align="center">
-  <img alt="C#" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" />
-  <img alt=".NET Core" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" />
-  <img alt="Java" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" />
-  <img alt="Android" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android" />
-  <img alt="HTML5" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" />
-  <img alt="CSS3" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" />
-  <img alt="Bootstrap" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
-  <img alt="MSSQL" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" />
-  <img alt="Linux" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" />
-  <img alt="Kali Linux" width="48" src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux" />
-  <img alt="Cryptography" width="48" src="https://img.icons8.com/ios-filled/50/lock.png" title="Cryptography" />
-  <img alt="Raspberry Pi" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" />
-</div>
+* 🎓 Computer Systems & Technologies Graduate
+* 💼 Junior .NET Developer
+* 🚀 Interested in Backend Development, Web APIs, Microservices and Clean Architecture
+* 🔐 Working with Authentication, Authorization, Database Design and Real-Time Systems
+* 🤖 Also interested in IoT, Computer Vision and AI-based applications
 
 ---
 
-## 🌱 Currently Learning
+## 🛠 Tech Stack
 
-<div align="center">
-  <img alt="TypeScript" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" />
-  <img alt="JavaScript" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" />
-  <img alt="Angular" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" />
-  <img alt="Git" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" />
-  <img alt="Python" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" />
-</div>
+### Backend & .NET
 
----
+C# • .NET • ASP.NET Core Web API • ASP.NET Core MVC • Entity Framework Core • SignalR • Identity • JWT • FluentValidation • Serilog
 
-## 📫 Connect with Me
+### Architecture & Concepts
 
-<div align="center">
-  <a href="mailto:barandasdemir.bd@gmail.com" target="_blank">
-    <img alt="Email" width="48" src="https://img.icons8.com/color/48/gmail-new.png" title="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/baran-dasdemir" target="_blank">
-    <img alt="LinkedIn" width="48" src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" />
-  </a>
-</div>
+Clean Architecture • Domain-Driven Design • Microservices • Repository Pattern • Unit of Work • CQRS • RESTful API • Design Patterns
 
----
+### Databases
 
+Microsoft SQL Server • PostgreSQL • MongoDB • Dapper • EF Core Code First
 
+### Frontend
 
+HTML • CSS • Bootstrap • JavaScript • TypeScript • Angular • Razor Pages • AJAX
 
+### DevOps & Tools
 
+Git • GitHub • Docker • Docker Compose • GitHub Actions • Swagger / OpenAPI • OpenTelemetry • Prometheus • Grafana • Jaeger
 
-## ✨ Inspiration & Vision
+### AI, IoT & Mobile
 
-> “A single line of code can open a door that makes people's lives easier.”  
-> *– Baran Daşdemir*
+Python • FastAPI • OpenCV • YOLO • Raspberry Pi • MQTT • Android / Java • Firebase • Cloudinary
+
+### Testing
+
+xUnit • Moq • FluentAssertions • Unit Testing
 
 ---
 
+## 🎯 Project Focus
+
+I mainly build projects around:
+
+* Backend systems with .NET, Clean Architecture and RESTful APIs
+* Microservice-based applications with Docker, API Gateway and multiple databases
+* Real-time applications using SignalR
+* Authentication and authorization systems with JWT and Identity
+* IoT and computer vision projects using Raspberry Pi, OpenCV and Python
+
+---
+
+## 📫 Contact
+
+* 🌐 Website: https://barandasdemir.com
+* 💻 GitHub: https://github.com/barandasdemir0
+* 💼 LinkedIn: https://linkedin.com/in/baran-dasdemir
+* 📧 Email: [barandasdemir.bd@gmail.com](mailto:barandasdemir.bd@gmail.com)
+
+---
+
+> *"A single line of code can open a door that makes people's lives easier."*
