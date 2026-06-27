@@ -50,7 +50,7 @@ HTML • CSS • Bootstrap • JavaScript • TypeScript • Angular • Razor P
 
 ### DevOps & Tools
 
-Git • GitHub • Docker • Docker Compose • GitHub Actions • Swagger / OpenAPI • OpenTelemetry • Prometheus • Grafana • Jaeger
+Git • GitHub • Docker • Docker Compose • GitHub Actions • scalar / OpenAPI • OpenTelemetry • Prometheus • Grafana • Jaeger
 
 ### AI, IoT & Mobile
 
